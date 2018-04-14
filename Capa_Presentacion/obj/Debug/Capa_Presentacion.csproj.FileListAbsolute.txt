@@ -1,0 +1,2 @@
+C:\Users\Ricardo\Desktop\PROJECT_FERRETERIA\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe.config
+Z:\Ricardo\Desktop\Compartido\PROJECT_FERRETERIA\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe.config
